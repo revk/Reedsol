@@ -1,7 +1,7 @@
 // reedsol.c
 //
 // This is a simple Reed-Solomon encoder/decoder
-// (C) Cliff Hones 2004
+// (C) Cliff Hones 2004 / Andrews & Arnold Ltd
 //
 // It is not written with high efficiency in mind, so is probably
 // not suitable for real-time encoding.  The aim was to keep it

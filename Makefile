@@ -1,2 +1,2 @@
-reedsol.o: reedsol.c
-	cc -O -c -o $@ $< -DLIB
+reedsol.o: reedsol.c Makefile
+	gcc -O -c -o $@ $< -DLIB -I/usr/local/include -L/usr/local/lib
